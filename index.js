@@ -5,4 +5,4 @@ function clickAlert() {
 }
 
 input.addEventListener('click', clickAlert);
-const name = "Jorge"
+
